@@ -4,7 +4,7 @@ build-backend = "pdm.pep517.api"
 
 [project]
 name = "pytkdocs"
-version = {use_scm = true}
+version = 0.14.0
 description = "Load Python objects documentation."
 authors = [{name = "Timothée Mazzucotelli", email = "pawamoy@pm.me"}]
 license = {file = "LICENSE"}
